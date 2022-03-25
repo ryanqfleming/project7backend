@@ -16,10 +16,6 @@ const User = sequelize.define("user", {
         type: Sequelize.STRING,
         allowNull: false,
     },
-    // readPosts: {
-    //     type: Sequelize.ARRAY,
-    //     allowNull: true
-    // }
 });
 
 module.exports = User;

@@ -20,9 +20,6 @@ const Post = sequelize.define("post", {
         type: Sequelize.STRING,
         allowNull: true
     },
-    
-
-
 })
 
 module.exports = Post;
