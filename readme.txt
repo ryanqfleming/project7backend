@@ -1,7 +1,7 @@
 welcome to the backend of project 7 by Ryan Fleming
 
 install a fresh mysql server
-
+create 'images' folder in base directory
 run npm install
 
 you need a .env file with the following structure 
